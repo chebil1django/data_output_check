@@ -4,7 +4,7 @@
         "category": "Leanne Graham",
         "image": "Bret",
         "price": "10",
-        "ratio": "7"
+        "ratio": "7",
 
         },
         {
@@ -12,6 +12,6 @@
             "category": "Leanne Graham",
             "image": "Bret",
             "price": "10",
-            "ratio": "10"
+            "ratio": "10",
             }
 ]
