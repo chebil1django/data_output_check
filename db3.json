@@ -1,1 +1,19 @@
-{"name":"John", "age":30, "car":null}
+{
+  "utilisateur": "Jean Dupont",
+  "âge": 30,
+  "adresse": {
+    "rue": "123 rue des Fleurs",
+    "ville": "Paris",
+    "code_postal": "75000"
+  },
+  "contacts": [
+    {
+      "type": "email",
+      "valeur": "jean.dupont@example.com"
+    },
+    {
+      "type": "téléphone",
+      "valeur": "+33 6 12 34 56 78"
+    }
+  ]
+}
